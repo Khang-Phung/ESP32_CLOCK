@@ -1,0 +1,4 @@
+build/
+.theia/
+*.bin
+*.elf

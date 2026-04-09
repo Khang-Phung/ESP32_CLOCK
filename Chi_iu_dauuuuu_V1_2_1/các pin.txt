@@ -1,0 +1,11 @@
+o A0	Wake
+n rs	SCL
+m	SDA
+l
+k
+j MOSI   7 f đỏ   vàng		
+i CS	8 ecam Xanh lam
+h MISO	6 g xám Cam
+g SCLK 5 h  	vàng Xanh lục
+
+
